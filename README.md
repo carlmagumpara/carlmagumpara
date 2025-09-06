@@ -1,6 +1,7 @@
 <p align="center">
   <img src="./gort-capybara.gif" width="200px" align="center" />
 </p>
+<h1 align="center">Hi 👋, I'm Carl</h1>
 <h3 align="center">A passionate fullstack developer from The Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
