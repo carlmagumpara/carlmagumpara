@@ -1,5 +1,6 @@
-<img src="./gort-capybara.gif" width="200px" align="center" />
-
+<p align="center">
+  <img src="./gort-capybara.gif" width="200px" align="center" />
+</p>
 <h3 align="center">A passionate fullstack developer from The Philippines</h3>
 
 <h3 align="left">Connect with me:</h3>
