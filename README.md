@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="15982745" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-wave-cute-anime-cartoon-gif-15982745">Hello Wave GIF</a>from <a href="https://tenor.com/search/hello-gifs">Hello GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 
 <h3 align="center">A passionate fullstack developer from The Philippines</h3>
 
