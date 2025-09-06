@@ -1,4 +1,4 @@
-<img src="./gort-capybara.gif"/>
+<img src="./gort-capybara.gif" width="200px" />
 
 <h3 align="center">A passionate fullstack developer from The Philippines</h3>
 
